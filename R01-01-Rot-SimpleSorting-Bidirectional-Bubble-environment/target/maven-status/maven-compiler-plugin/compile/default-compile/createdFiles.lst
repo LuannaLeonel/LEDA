@@ -1,0 +1,9 @@
+sorting/AbstractSorting.class
+sorting/simpleSorting/InsertionSort.class
+util/Util.class
+sorting/variationsOfBubblesort/RecursiveBubbleSort.class
+sorting/simpleSorting/BubbleSort.class
+sorting/variationsOfSelectionsort/RecursiveSelectionSort.class
+sorting/simpleSorting/SelectionSort.class
+sorting/Sorting.class
+sorting/variationsOfBubblesort/BidirectionalBubbleSort.class

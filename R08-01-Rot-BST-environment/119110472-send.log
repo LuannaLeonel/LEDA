@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-11-14T20:25:59.339-0300</date>
+  <logger>LUANNA LEONEL DE FARIAS SILVA</logger>
+  <level>FINE</level>
+  <message>File 119110472-LUANNA LEONEL DE FARIAS SILVA.zip was received. It was sent by LUANNA LEONEL DE FARIAS SILVA from IP 192.168.1.9 at 14-11-2020 20*25*59</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-11-15T23:26:49.505-0300</date>
+  <logger>LUANNA LEONEL DE FARIAS SILVA</logger>
+  <level>FINE</level>
+  <message>File 119110472-LUANNA LEONEL DE FARIAS SILVA.zip was received. It was sent by LUANNA LEONEL DE FARIAS SILVA from IP 192.168.1.9 at 15-11-2020 23*26*49</message>
+</record>
